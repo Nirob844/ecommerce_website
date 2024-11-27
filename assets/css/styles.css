@@ -6,7 +6,7 @@
   --header-height: 4rem;
 
   /*========== Colors ==========*/
-  --first-color: hsl(176, 88%, 27%);
+  --first-color: hsl(305, 88%, 27%);
   --first-color-alt: hsl(129, 44%, 94%);
   --second-color: hsl(34, 94%, 87%);
   --title-color: hsl(0, 0%, 13%);
@@ -973,6 +973,7 @@ table {
 }
 
 /*=============== FOOTER ===============*/
+
 .footer__container {
   grid-template-columns: 4.5fr repeat(2, 2fr) 3.5fr;
   padding-block: 2.5rem;
